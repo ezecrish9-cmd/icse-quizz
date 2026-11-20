@@ -1,0 +1,37 @@
+{
+  "subject": "BIOLOGY",
+  "topic": "Human & Plant Physiology",
+  "description": "ICSE 10th Biology: Transpiration, Photosynthesis, Circulatory, Excretory and Nervous Systems",
+  "questions": [
+    {
+      "question": "Which apparatus is commonly used to measure the rate of water uptake (transpiration) by a plant shoot?",
+      "options": ["Ganong's Potometer", "Barometer", "Sphygmomanometer", "Clinostat"],
+      "correct_option_id": 0,
+      "explanation": "Ganong's potometer measures the rate of water uptake, which is proportional to transpiration."
+    },
+    {
+      "question": "Which blood vessel carries oxygenated blood from the lungs back to the left atrium of the heart?",
+      "options": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
+      "correct_option_id": 1,
+      "explanation": "Pulmonary veins are the only veins in the human body carrying oxygen-rich blood."
+    },
+    {
+      "question": "The functional and structural filtration unit of the human kidney is the:",
+      "options": ["Neuron", "Nephron", "Alveolus", "Loop of Henle"],
+      "correct_option_id": 1,
+      "explanation": "The nephron is the microscopic structural and functional unit of the kidney."
+    },
+    {
+      "question": "Which hormone regulates the blood glucose level by converting excess glucose to glycogen?",
+      "options": ["Glucagon", "Insulin", "Adrenaline", "Thyroxine"],
+      "correct_option_id": 1,
+      "explanation": "Insulin secreted by beta cells of Islets of Langerhans promotes glycogenesis to lower blood sugar."
+    },
+    {
+      "question": "Light-dependent reaction (Hill's reaction) of photosynthesis occurs in which part of chloroplast?",
+      "options": ["Stroma", "Thylakoids / Grana", "Outer membrane", "Cytoplasm"],
+      "correct_option_id": 1,
+      "explanation": "The light reactions take place on the thylakoid membranes (grana) containing chlorophyll."
+    }
+  ]
+}

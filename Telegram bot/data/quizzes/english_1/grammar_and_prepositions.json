@@ -1,0 +1,37 @@
+{
+  "subject": "ENGLISH 1",
+  "topic": "Grammar & Prepositions",
+  "description": "ICSE 10th English Language: Appropriate Prepositions, Phrasal Verbs, and Correct Verb Forms",
+  "questions": [
+    {
+      "question": "Fill in the blank with appropriate preposition: The principal will look _____ the matter thoroughly.",
+      "options": ["at", "into", "after", "for"],
+      "correct_option_id": 1,
+      "explanation": "'Look into' is a phrasal verb meaning to investigate or examine thoroughly."
+    },
+    {
+      "question": "Fill in the blank: The old sailor passed _____ peacefully in his sleep last night.",
+      "options": ["out", "off", "away", "by"],
+      "correct_option_id": 2,
+      "explanation": "'Pass away' is an idiomatic phrasal verb meaning to die peacefully."
+    },
+    {
+      "question": "Fill in the blank: She has been studying in this school _____ 2018.",
+      "options": ["for", "since", "from", "by"],
+      "correct_option_id": 1,
+      "explanation": "'Since' denotes a specific point in time in the past continuing into the present."
+    },
+    {
+      "question": "Choose the correct form: If you had informed me earlier, I _____ you.",
+      "options": ["will help", "would help", "would have helped", "had helped"],
+      "correct_option_id": 2,
+      "explanation": "Third conditional structure: If + past perfect (had informed), then would have + past participle (would have helped)."
+    },
+    {
+      "question": "Fill in the blank: Do not look down _____ those who are less fortunate than you.",
+      "options": ["at", "upon", "for", "with"],
+      "correct_option_id": 1,
+      "explanation": "To 'look down upon' someone means to regard them with contempt or feel superior."
+    }
+  ]
+}

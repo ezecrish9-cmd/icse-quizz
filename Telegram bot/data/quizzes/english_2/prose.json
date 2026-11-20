@@ -1,0 +1,117 @@
+{
+  "subject": "ENGLISH 2",
+  "topic": "Prose",
+  "description": "ICSE Class 10 English Literature: Treasure Chest Short Stories",
+  "questions": [
+    {
+      "question": "In Stephen Leacock's 'With the Photographer', why was the narrator deeply offended by the finished photograph?",
+      "options": [
+        "It was too dark and blurry",
+        "The photographer had retouched his eyes, eyebrows, and mouth beyond recognition",
+        "It took three weeks to develop",
+        "The cost was three times the agreed price"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The photographer altered the narrator's face using delphide and process adjustments, stripping away his natural features."
+    },
+    {
+      "question": "In 'With the Photographer', what did the photographer do to the narrator's ears in the proof?",
+      "options": [
+        "He enlarged them",
+        "He removed them entirely",
+        "He planned to strike them out completely and replace them with new ears",
+        "He tinted them red"
+      ],
+      "correct_option_id": 2,
+      "explanation": "The photographer said: 'I don't like the ears... I can strike them out, and put them in with a new process.'"
+    },
+    {
+      "question": "In William Sleator's 'The Elevator', why does twelve-year-old Martin dislike the elevator in his new apartment building?",
+      "options": [
+        "It was noisy and shook violently",
+        "It was small, claustrophobic, poorly lit, and the fat lady with eerie green eyes cornered him",
+        "It smelled of smoke",
+        "The elevator buttons were broken"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Martin feared the small elevator's dirty green walls and the eerie, obese woman who stared unblinkingly at him."
+    },
+    {
+      "question": "In 'The Elevator', what happened when Martin tried taking the stairs instead of the elevator?",
+      "options": [
+        "He twisted his ankle on the dark stairs and was forced back onto crutches",
+        "The stairs collapsed under him",
+        "His father forbade him from using the stairs",
+        "The stairwell door was locked"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Running down the stairs in terror, Martin fell and fractured his leg, forcing him back into the elevator with crutches."
+    },
+    {
+      "question": "In Ama Ata Aidoo's 'The Girl Who Can', what physical feature of Adjoa did her grandmother Nana constantly criticize?",
+      "options": [
+        "Her dark complexion",
+        "Her long, thin legs with missing calves",
+        "Her posture while walking",
+        "Her delicate arms"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Nana was obsessed with Adjoa's thin legs, lamenting that without solid calves, she could never support hips to bear children."
+    },
+    {
+      "question": "In 'The Girl Who Can', what achievement finally made Nana proud of Adjoa's legs?",
+      "options": [
+        "She passed her high school exams",
+        "She was selected to represent the junior school in district athletics and won the cup",
+        "She carried water pots effortlessly",
+        "She became a dancer"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Adjoa won every running race at the district sports meet, leading Nana to carry the shiny trophy cup on her back."
+    },
+    {
+      "question": "In Ray Bradbury's 'The Pedestrian', why was Leonard Mead arrested by the automated police car in AD 2053?",
+      "options": [
+        "He committed a robbery",
+        "He was walking alone at night instead of watching television indoors like everyone else",
+        "He spoke disrespectfully to the police",
+        "He was carrying a weapon"
+      ],
+      "correct_option_id": 1,
+      "explanation": "In Bradbury's dystopian society, walking at night for fresh air was considered an abnormal 'regressive tendency'."
+    },
+    {
+      "question": "In 'The Pedestrian', what destination did the automated police cruiser enter for Leonard Mead?",
+      "options": [
+        "City Jail",
+        "The Psychiatric Center for Research on Regressive Tendencies",
+        "His own house",
+        "The Central Labor Camp"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The voice in the automated car announced he was being taken to the Psychiatric Center for Research on Regressive Tendencies."
+    },
+    {
+      "question": "In Alphonse Daudet's 'The Last Lesson', what order had come from Berlin regarding the schools of Alsace and Lorraine?",
+      "options": [
+        "To teach only French",
+        "To teach only German instead of French",
+        "To close down all schools permanently",
+        "To pay a heavy war tax"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The order from Berlin mandated that German alone would be taught in the schools of Alsace and Lorraine."
+    },
+    {
+      "question": "In 'The Last Lesson', what did M. Hamel write in huge letters on the blackboard before dismissing the class?",
+      "options": [
+        "\"Vive la France!\"",
+        "\"Adieu, Alsace!\"",
+        "\"Fin de la leçon\"",
+        "\"Liberté, Égalité, Fraternité\""
+      ],
+      "correct_option_id": 0,
+      "explanation": "Choked with emotion at the church bell, M. Hamel took a piece of chalk and wrote: 'Vive la France!' (Long Live France!)."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "subject": "COMPUTER",
+  "topic": "Arrays & String Handling",
+  "description": "ICSE 10th Computer Applications: Linear Search, Binary Search, Bubble Sort, String Class and Character Methods",
+  "questions": [
+    {
+      "question": "What does the method \"DEVELOPMENT\".substring(3, 7) return in Java?",
+      "options": ["\"ELOP\"", "\"VELO\"", "\"ELO\"", "\"EVEL\""],
+      "correct_option_id": 0,
+      "explanation": "Indexing starts at 0: indices 3, 4, 5, 6 give characters 'E', 'L', 'O', 'P' (\"ELOP\")."
+    },
+    {
+      "question": "Which search algorithm requires the array elements to be strictly pre-sorted?",
+      "options": ["Linear Search", "Binary Search", "Sequential Search", "None of these"],
+      "correct_option_id": 1,
+      "explanation": "Binary search divides the search interval in half each time and strictly requires sorted arrays."
+    },
+    {
+      "question": "What is the return type of the method Character.isDigit('9') in Java?",
+      "options": ["int", "char", "boolean", "void"],
+      "correct_option_id": 2,
+      "explanation": "Character wrapper class methods like isDigit(), isLetter() return a boolean."
+    },
+    {
+      "question": "What is the result of \"Computer\".compareTo(\"Computer\")?",
+      "options": ["true", "1", "0", "-1"],
+      "correct_option_id": 2,
+      "explanation": "compareTo() returns 0 if both strings are lexicographically identical."
+    },
+    {
+      "question": "If int arr[] = new int[10], what is the valid index range for this array?",
+      "options": ["1 to 10", "0 to 9", "0 to 10", "1 to 9"],
+      "correct_option_id": 1,
+      "explanation": "Java arrays are zero-indexed, so an array of size 10 has valid indices from 0 up to 9."
+    }
+  ]
+}

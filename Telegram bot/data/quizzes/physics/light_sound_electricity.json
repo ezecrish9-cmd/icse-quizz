@@ -1,0 +1,37 @@
+{
+  "subject": "PHYSICS",
+  "topic": "Light, Sound & Electricity",
+  "description": "ICSE 10th Physics: Refraction, Lenses, Spectrum, Echoes, Ohm's law, and Household Circuits",
+  "questions": [
+    {
+      "question": "What is the minimum distance required from an obstacle to hear a distinct echo in air (at 20°C)?",
+      "options": ["17.2 m", "34 m", "10 m", "25 m"],
+      "correct_option_id": 0,
+      "explanation": "Since persistence of hearing is 0.1 s and speed of sound is ~344 m/s: d = (344 × 0.1)/2 = 17.2 m."
+    },
+    {
+      "question": "Which color of white light deviates the most when passing through a triangular glass prism?",
+      "options": ["Red", "Yellow", "Violet", "Green"],
+      "correct_option_id": 2,
+      "explanation": "Violet has the shortest wavelength and lowest speed in glass, so it suffers maximum deviation."
+    },
+    {
+      "question": "What happens to the resistance of a metallic wire when its length is doubled and cross-section halved?",
+      "options": ["Remains same", "Doubles", "Increases 4 times", "Halves"],
+      "correct_option_id": 2,
+      "explanation": "R = ρ(L/A). If L is doubled and A is halved: R' = ρ(2L / (A/2)) = 4R."
+    },
+    {
+      "question": "In a household electrical wiring system, the fuse is always connected in which wire?",
+      "options": ["Neutral wire", "Live wire", "Earth wire", "Any wire"],
+      "correct_option_id": 1,
+      "explanation": "The fuse is placed in the Live wire to cut off high voltage from the appliance during a fault."
+    },
+    {
+      "question": "When a ray of light passes from an optically denser to rarer medium at critical angle, angle of refraction is:",
+      "options": ["0°", "45°", "90°", "180°"],
+      "correct_option_id": 2,
+      "explanation": "By definition, the critical angle corresponds to an angle of refraction of 90° in the rarer medium."
+    }
+  ]
+}

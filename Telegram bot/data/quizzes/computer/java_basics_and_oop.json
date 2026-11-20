@@ -1,0 +1,37 @@
+{
+  "subject": "COMPUTER",
+  "topic": "Java OOP Basics & Control Structures",
+  "description": "ICSE 10th Computer Applications: Classes, Objects, Primitive Types, Operators, Conditionals and Loops",
+  "questions": [
+    {
+      "question": "Which OOP concept wraps code and data together into a single unit to protect against unauthorized access?",
+      "options": ["Inheritance", "Polymorphism", "Encapsulation", "Abstraction"],
+      "correct_option_id": 2,
+      "explanation": "Encapsulation binds data and member methods into a class and restricts direct access using access specifiers."
+    },
+    {
+      "question": "What is the default initial value of an uninitialized instance variable of boolean type in Java?",
+      "options": ["true", "false", "0", "null"],
+      "correct_option_id": 1,
+      "explanation": "In Java, instance boolean variables default to false automatically."
+    },
+    {
+      "question": "What is the return type of the expression: (15 > 7) && (4 == 4)?",
+      "options": ["int", "boolean", "char", "String"],
+      "correct_option_id": 1,
+      "explanation": "Logical and relational operators always evaluate to a boolean value (true or false)."
+    },
+    {
+      "question": "What is the output of Math.round(7.5) and Math.ceil(7.2) in Java?",
+      "options": ["8 and 8.0", "7 and 7.0", "8 and 7.0", "7 and 8.0"],
+      "correct_option_id": 0,
+      "explanation": "Math.round(7.5) rounds up to long 8, while Math.ceil(7.2) yields double 8.0."
+    },
+    {
+      "question": "Which keyword is used to terminate a loop or switch-case statement immediately in Java?",
+      "options": ["continue", "return", "break", "exit"],
+      "correct_option_id": 2,
+      "explanation": "The 'break' keyword halts execution of the innermost loop or switch structure immediately."
+    }
+  ]
+}

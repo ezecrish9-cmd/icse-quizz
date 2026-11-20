@@ -1,0 +1,37 @@
+{
+  "subject": "BIOLOGY",
+  "topic": "Cell Cycle & Genetics",
+  "description": "ICSE 10th Biology: Mitosis, Meiosis, Structure of Chromosome, Mendel's Laws of Inheritance",
+  "questions": [
+    {
+      "question": "During which stage of mitosis do sister chromatids separate and move to opposite poles?",
+      "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+      "correct_option_id": 2,
+      "explanation": "During Anaphase, centromeres split and sister chromatids are pulled towards opposite spindle poles."
+    },
+    {
+      "question": "What is the phenotypic ratio obtained in a Mendelian monohybrid cross in F2 generation?",
+      "options": ["1:2:1", "3:1", "9:3:3:1", "2:1"],
+      "correct_option_id": 1,
+      "explanation": "Mendel's monohybrid F2 phenotypic ratio is 3 dominant : 1 recessive."
+    },
+    {
+      "question": "The repeating structural unit of chromatin consisting of DNA wrapped around histones is called:",
+      "options": ["Nucleotide", "Centromere", "Nucleosome", "Chromatid"],
+      "correct_option_id": 2,
+      "explanation": "A nucleosome consists of a core of 8 histone proteins wrapped by double-stranded DNA."
+    },
+    {
+      "question": "Which nitrogenous base is present in RNA instead of Thymine?",
+      "options": ["Adenine", "Guanine", "Uracil", "Cytosine"],
+      "correct_option_id": 2,
+      "explanation": "RNA contains Uracil (U) which pairs with Adenine, replacing Thymine found in DNA."
+    },
+    {
+      "question": "What sex chromosomes determine a biological human male?",
+      "options": ["XX", "XY", "YY", "XO"],
+      "correct_option_id": 1,
+      "explanation": "Human males have one X and one Y chromosome (44 + XY)."
+    }
+  ]
+}

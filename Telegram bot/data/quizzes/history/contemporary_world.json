@@ -1,0 +1,37 @@
+{
+  "subject": "HISTORY",
+  "topic": "Contemporary World & United Nations",
+  "description": "ICSE 10th History: First World War, Rise of Fascism & Nazism, Second World War, United Nations & Major Agencies",
+  "questions": [
+    {
+      "question": "The assassination of Archduke Franz Ferdinand at Sarajevo sparked which global conflict?",
+      "options": ["First World War", "Second World War", "Cold War", "Crimean War"],
+      "correct_option_id": 0,
+      "explanation": "The assassination of Austro-Hungarian heir Archduke Franz Ferdinand in June 1914 triggered WWI."
+    },
+    {
+      "question": "Which treaty concluded World War I in 1919 with harsh terms on Germany?",
+      "options": ["Treaty of Versailles", "Treaty of Portsmouth", "Treaty of Paris", "Treaty of Geneva"],
+      "correct_option_id": 0,
+      "explanation": "The Treaty of Versailles signed in 1919 held Germany responsible for the war losses."
+    },
+    {
+      "question": "How many permanent members are there in the United Nations Security Council (UNSC)?",
+      "options": ["3", "5", "10", "15"],
+      "correct_option_id": 1,
+      "explanation": "The 5 permanent members with veto power are USA, UK, France, Russia, and China."
+    },
+    {
+      "question": "Which United Nations agency is tasked with preserving cultural, educational, and natural heritage?",
+      "options": ["UNICEF", "WHO", "UNESCO", "UNHCR"],
+      "correct_option_id": 2,
+      "explanation": "UNESCO (UN Educational, Scientific and Cultural Organization) designates World Heritage Sites."
+    },
+    {
+      "question": "Where is the principal seat of the International Court of Justice (ICJ) located?",
+      "options": ["New York, USA", "Geneva, Switzerland", "The Hague, Netherlands", "Vienna, Austria"],
+      "correct_option_id": 2,
+      "explanation": "The Peace Palace in The Hague, Netherlands is the headquarters of the ICJ."
+    }
+  ]
+}

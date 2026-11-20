@@ -1,0 +1,37 @@
+{
+  "subject": "GEOGRAPHY",
+  "topic": "Natural Vegetation, Resources & Agriculture",
+  "description": "ICSE 10th Geography: Forests, Water Resources, Minerals (Iron, Coal, Petroleum), Cash Crops and Food Crops",
+  "questions": [
+    {
+      "question": "Which tidal mangrove tree species dominates the Sundarbans in West Bengal?",
+      "options": ["Teak", "Sal", "Sundari", "Sandalwood"],
+      "correct_option_id": 2,
+      "explanation": "Sundari trees (Heritiera fomes) thrive in littoral tidal swamps and lend their name to the Sundarbans."
+    },
+    {
+      "question": "Which method of surface irrigation is most traditional and widely practiced in peninsular India with hard rock?",
+      "options": ["Canal irrigation", "Tubewell irrigation", "Tank irrigation", "Drip irrigation"],
+      "correct_option_id": 2,
+      "explanation": "Tank irrigation is predominant in South India due to undulating rocky terrain where digging wells is hard."
+    },
+    {
+      "question": "Which variety of coal has the highest carbon content and energy output?",
+      "options": ["Peat", "Lignite", "Bituminous", "Anthracite"],
+      "correct_option_id": 3,
+      "explanation": "Anthracite is the finest grade of coal, containing over 85-90% carbon content."
+    },
+    {
+      "question": "Which state is the leading producer of sugarcane in India?",
+      "options": ["Punjab", "Uttar Pradesh", "Maharashtra", "Tamil Nadu"],
+      "correct_option_id": 1,
+      "explanation": "Uttar Pradesh has the largest acreage and highest total output of sugarcane in India."
+    },
+    {
+      "question": "What kind of farming involves cultivating cash crops like tea and coffee over large estates?",
+      "options": ["Subsistence farming", "Plantation agriculture", "Shifting cultivation", "Dry farming"],
+      "correct_option_id": 1,
+      "explanation": "Plantation agriculture involves single-crop large estates managed with high capital and labor."
+    }
+  ]
+}

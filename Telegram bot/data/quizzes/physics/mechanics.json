@@ -1,0 +1,43 @@
+{
+  "subject": "PHYSICS",
+  "topic": "Mechanics, Work & Energy",
+  "description": "ICSE 10th Physics: Force, Moment of Force, Work, Energy, Power and Machines",
+  "questions": [
+    {
+      "question": "What is the SI unit of moment of force?",
+      "options": ["N/m", "N m", "N s", "J/s"],
+      "correct_option_id": 1,
+      "explanation": "Moment of force = Force × Perpendicular distance, so SI unit is Newton-meter (N m)."
+    },
+    {
+      "question": "A body is in stable equilibrium when its center of gravity lies:",
+      "options": ["At the highest point", "At the lowest point", "Outside the body", "At infinity"],
+      "correct_option_id": 1,
+      "explanation": "A body is in stable equilibrium when its center of gravity is at its lowest position."
+    },
+    {
+      "question": "Which class of lever always has Mechanical Advantage (M.A.) greater than 1?",
+      "options": ["Class I", "Class II", "Class III", "None of these"],
+      "correct_option_id": 1,
+      "explanation": "In a Class II lever, the effort arm is always longer than the load arm, so M.A. > 1."
+    },
+    {
+      "question": "1 kilowatt-hour (kWh) is equal to how many Joules?",
+      "options": ["3.6 × 10^5 J", "3.6 × 10^6 J", "1000 J", "3600 J"],
+      "correct_option_id": 1,
+      "explanation": "1 kWh = 1000 W × 3600 s = 3.6 × 10^6 Joules."
+    },
+    {
+      "question": "For an ideal machine, the velocity ratio (V.R.) and mechanical advantage (M.A.) are related by:",
+      "options": ["M.A. = V.R.", "M.A. > V.R.", "M.A. < V.R.", "M.A. × V.R. = 1"],
+      "correct_option_id": 0,
+      "explanation": "For an ideal machine with 100% efficiency, Efficiency = M.A. / V.R. = 1, so M.A. = V.R."
+    },
+    {
+      "question": "When a force acts at right angles (90°) to the displacement, the work done is:",
+      "options": ["Maximum", "Zero", "Negative", "Infinite"],
+      "correct_option_id": 1,
+      "explanation": "W = F × s × cos(90°). Since cos(90°) = 0, work done is zero."
+    }
+  ]
+}

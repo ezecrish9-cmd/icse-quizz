@@ -1,0 +1,117 @@
+{
+  "subject": "ENGLISH 2",
+  "topic": "Poetry",
+  "description": "ICSE Class 10 English Literature: Treasure Chest Poems",
+  "questions": [
+    {
+      "question": "In H.W. Longfellow's 'Haunted Houses', what kind of phantoms inhabit our dwellings according to the poet?",
+      "options": [
+        "Terrifying demons that torment the living",
+        "Quiet, inoffensive phantoms of those who once lived and worked there",
+        "Spirits seeking bloody revenge",
+        "Visions conjured only by nightmares"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Longfellow describes the spirits as gentle, quiet guests who glide softly through doorways on silent feet."
+    },
+    {
+      "question": "In 'Haunted Houses', what is the 'bridge of light' connecting the spirit world and our mortal world?",
+      "options": [
+        "A rainbow after a rainstorm",
+        "Moonlight casting pale rays through the midnight sky",
+        "The burning rays of the morning sun",
+        "The light of candles in old hallways"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Longfellow likens our thoughts and spirits to moonlight crossing a bridge of light from the spirit realm."
+    },
+    {
+      "question": "In Leigh Hunt's 'The Glove and the Lions', why did Count de Lorge throw the retrieved glove into the lady's face?",
+      "options": [
+        "He was frightened by the roaring lions",
+        "He recognized her test of devotion was fueled by hollow vanity rather than true love",
+        "King Francis commanded him to humiliate her",
+        "The glove was covered in lion blood"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Count de Lorge realized she risked his life in a pit of ferocious beasts solely to inflate her vanity before the court."
+    },
+    {
+      "question": "In 'The Glove and the Lions', what did King Francis remark after Count de Lorge threw the glove?",
+      "options": [
+        "\"De Lorge deserves execution for insulting a lady!\"",
+        "\"'Faith, gentlemen, cried Francis, 'rightly done! No love, but vanity, sets love a task like that.\"",
+        "\"The lions fought better than the count!\"",
+        "\"Let another knight retrieve it!\""
+      ],
+      "correct_option_id": 1,
+      "explanation": "King Francis immediately sided with De Lorge, asserting: 'No love, but vanity, sets love a task like that.'"
+    },
+    {
+      "question": "In Maya Angelou's 'When Great Trees Fall', how do our souls react initially when exceptional souls die?",
+      "options": [
+        "They instantly forget the tragedy",
+        "Our souls, dependent upon their nurture, now shrink, wizened into madness",
+        "They celebrate the departed soul's journey",
+        "They immediately find peace"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Angelou conveys the visceral shock of grief: our souls dependent on their nurture temporarily wither in numb sorrow."
+    },
+    {
+      "question": "In 'When Great Trees Fall', what profound realization brings solace and peace after the pain fades?",
+      "options": [
+        "That pain lasts forever",
+        "They existed. We can be. Be and be better. For they existed.",
+        "That material possessions matter most",
+        "That words cannot heal grief"
+      ],
+      "correct_option_id": 1,
+      "explanation": "The poem concludes with hope: 'They existed. We can be. Be and be better. For they existed.'"
+    },
+    {
+      "question": "In Robert Frost's 'A Considerable Speck', what was the microscopic creature running across the poet's sheet of paper?",
+      "options": [
+        "A spider spinning a web",
+        "A living mite with an inclination to preserve its own life",
+        "A fleck of dust carried by breeze",
+        "A microscopic beetle"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Frost notices a tiny living speck (a microscopic mite) racing across his freshly penned sheet of paper."
+    },
+    {
+      "question": "In 'A Considerable Speck', why did the poet spare the life of the tiny creature rather than squashing it with his pen?",
+      "options": [
+        "He was out of ink",
+        "He recognized intelligence, fear, and a mind that hesitated and ran to save itself",
+        "It flew away too quickly",
+        "He was afraid of insect bites"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Frost respected the display of mind and consciousness in the tiny insect, letting it sleep on the paper in peace."
+    },
+    {
+      "question": "In Sukumar Ray's humorous poem 'The Power of Music', who is the relentless singer that torments the town?",
+      "options": [
+        "Bhisma Lochan Sharma",
+        "Kanka the village fiddler",
+        "Shibu the schoolmaster",
+        "Pandit Ramakant"
+      ],
+      "correct_option_id": 0,
+      "explanation": "Bhisma Lochan Sharma bellows his songs with earsplitting loudness, deafening neighbors and frightening animals."
+    },
+    {
+      "question": "In 'The Power of Music', who or what finally silences Bhisma Lochan Sharma's deafening song?",
+      "options": [
+        "A swarm of bees",
+        "A frantic, sagacious billy goat that butts him with its horns",
+        "The village police constable",
+        "A torrential thunderstorm"
+      ],
+      "correct_option_id": 1,
+      "explanation": "A mighty billy goat, unable to bear the singing, charges headfirst and butts Bhisma Lochan into the air, stopping the song."
+    }
+  ]
+}

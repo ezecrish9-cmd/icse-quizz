@@ -1,0 +1,53 @@
+{
+  "subject": "ENGLISH 2",
+  "topic": "Julius Caesar",
+  "description": "ICSE 10th English Literature: Shakespeare's Julius Caesar (Acts 3, 4 and 5)",
+  "questions": [
+    {
+      "question": "Which conspirator was the first to strike and stab Julius Caesar in the Senate?",
+      "options": ["Brutus", "Casca", "Cassius", "Decius Brutus"],
+      "correct_option_id": 1,
+      "explanation": "Casca struck first, shouting: 'Speak, hands, for me!' in Act 3, Scene 1."
+    },
+    {
+      "question": "What famous opening phrase does Mark Antony use in his funeral oration to address the Roman crowd?",
+      "options": [
+        "Romans, countrymen, and lovers! hear me for my cause",
+        "Friends, Romans, countrymen, lend me your ears",
+        "Citizens of Rome, awake your senses",
+        "Hear me, noble Romans, for Caesar's sake"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Antony's speech begins: 'Friends, Romans, countrymen, lend me your ears; I come to bury Caesar, not to praise him.'"
+    },
+    {
+      "question": "Whose cut does Antony describe as 'the most unkindest cut of all' on Caesar's mantle?",
+      "options": ["Casca's", "Cassius'", "Brutus'", "Trebonius'"],
+      "correct_option_id": 2,
+      "explanation": "Antony highlights Brutus' cut as the most unkindest cut because Caesar deeply loved Brutus as an angel."
+    },
+    {
+      "question": "What ghost appears to Brutus in his tent near Sardis before the Battle of Philippi?",
+      "options": ["Ghost of Pompey", "Ghost of Portia", "Ghost of Julius Caesar", "Ghost of Cicero"],
+      "correct_option_id": 2,
+      "explanation": "The Ghost of Caesar appears, declaring itself Brutus' evil spirit and promising to see him at Philippi."
+    },
+    {
+      "question": "Why did Cassius order his servant Pindarus to slay him at the Battle of Philippi?",
+      "options": [
+        "He was surrounded by Antony's troops",
+        "He mistakenly believed his dear friend Titinius had been captured",
+        "Brutus ordered his execution",
+        "He suffered a mortal sword wound"
+      ],
+      "correct_option_id": 1,
+      "explanation": "Cassius mistakenly believed Titinius was taken by enemy troops, leading him to end his own life prematurely."
+    },
+    {
+      "question": "At the close of the play, who praises Brutus as 'the noblest Roman of them all'?",
+      "options": ["Octavius Caesar", "Mark Antony", "Lepidus", "Lucilius"],
+      "correct_option_id": 1,
+      "explanation": "Antony honors Brutus because alone among the conspirators, he acted from an honest, general good to all Romans."
+    }
+  ]
+}

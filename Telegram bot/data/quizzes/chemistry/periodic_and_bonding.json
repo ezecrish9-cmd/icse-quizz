@@ -1,0 +1,37 @@
+{
+  "subject": "CHEMISTRY",
+  "topic": "Periodic Table & Chemical Bonding",
+  "description": "ICSE 10th Chemistry: Periodic Trends, Ionisation Energy, Electronegativity, Ionic, Covalent and Coordinate Bonds",
+  "questions": [
+    {
+      "question": "Across a period from left to right in the modern Periodic Table, atomic size generally:",
+      "options": ["Increases", "Decreases", "Remains constant", "First decreases then increases"],
+      "correct_option_id": 1,
+      "explanation": "Nuclear charge increases across a period while number of shells remains constant, pulling electrons closer."
+    },
+    {
+      "question": "Which element has the highest electronegativity in the entire Periodic Table?",
+      "options": ["Oxygen", "Chlorine", "Fluorine", "Nitrogen"],
+      "correct_option_id": 2,
+      "explanation": "Fluorine has the highest electronegativity value (4.0 on Pauling scale)."
+    },
+    {
+      "question": "Which of the following compounds contains all three types of bonds: ionic, covalent, and coordinate?",
+      "options": ["NaCl", "H2O", "NH4Cl (Ammonium Chloride)", "CH4"],
+      "correct_option_id": 2,
+      "explanation": "NH4Cl has covalent bonds (N-H), coordinate bond (N->H+), and an ionic bond between NH4+ and Cl-."
+    },
+    {
+      "question": "What is the common name of the process used for industrial manufacture of Ammonia?",
+      "options": ["Contact Process", "Ostwald's Process", "Haber's Process", "Hall-Héroult Process"],
+      "correct_option_id": 2,
+      "explanation": "Haber's process synthesizes ammonia from nitrogen and hydrogen gases using an iron catalyst."
+    },
+    {
+      "question": "An aqueous solution of which gas turns moist red litmus paper blue?",
+      "options": ["HCl", "SO2", "CO2", "NH3 (Ammonia)"],
+      "correct_option_id": 3,
+      "explanation": "Ammonia is the only basic gas in the ICSE 10th syllabus that turns moist red litmus blue."
+    }
+  ]
+}

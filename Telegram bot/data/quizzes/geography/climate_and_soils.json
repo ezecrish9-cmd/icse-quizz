@@ -1,0 +1,37 @@
+{
+  "subject": "GEOGRAPHY",
+  "topic": "Climate & Soils of India",
+  "description": "ICSE 10th Geography: Monsoon Mechanism, Western Disturbances, Alluvial, Black, Red and Laterite Soils",
+  "questions": [
+    {
+      "question": "Which branch of the South-West Monsoon brings heavy rainfall to Mumbai and Western Ghats?",
+      "options": ["Bay of Bengal Branch", "Arabian Sea Branch", "North-East Monsoon", "Western Disturbances"],
+      "correct_option_id": 1,
+      "explanation": "The Arabian Sea branch strikes the Western Ghats first, causing intense orographic precipitation."
+    },
+    {
+      "question": "Which soil type is known as 'Regur Soil' and is ideally suited for cotton cultivation?",
+      "options": ["Alluvial Soil", "Red Soil", "Black Soil", "Laterite Soil"],
+      "correct_option_id": 2,
+      "explanation": "Black soil is clayey, moisture-retentive, rich in minerals, and widely known as Regur/Black Cotton Soil."
+    },
+    {
+      "question": "Winter rainfall in north-western plains (Punjab and Haryana) is primarily caused by:",
+      "options": ["South-West Monsoon", "Western Disturbances", "Tropical Cyclones", "Retreating Monsoon"],
+      "correct_option_id": 1,
+      "explanation": "Western Disturbances originating over the Mediterranean Sea bring vital winter rain for Rabi crops."
+    },
+    {
+      "question": "Which soil is formed as a result of intense leaching under heavy rainfall and alternating wet/dry seasons?",
+      "options": ["Laterite Soil", "Black Soil", "Mountain Soil", "Alluvial Soil"],
+      "correct_option_id": 0,
+      "explanation": "Laterite soil forms due to leaching where silica and lime wash away, leaving iron and aluminium oxides."
+    },
+    {
+      "question": "What is the localized pre-monsoon thunderstorm in West Bengal called?",
+      "options": ["Loo", "Kalbaisakhi", "Mango Showers", "Cherry Blossom"],
+      "correct_option_id": 1,
+      "explanation": "Kalbaisakhi (Calamity of the month of Baisakh) refers to evening thunderstorms in Bengal."
+    }
+  ]
+}

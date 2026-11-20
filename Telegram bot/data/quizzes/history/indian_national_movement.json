@@ -1,0 +1,37 @@
+{
+  "subject": "HISTORY",
+  "topic": "Indian National Movement",
+  "description": "ICSE 10th History: Revolt of 1857, Early Nationalists, Assertive Phase, Muslim League, Mahatma Gandhi",
+  "questions": [
+    {
+      "question": "What was the immediate cause of the Great Revolt of 1857?",
+      "options": ["Doctrine of Lapse", "Enfield rifle greased cartridges", "Abolition of Sati", "Drain of Wealth"],
+      "correct_option_id": 1,
+      "explanation": "The introduction of the Enfield rifle cartridges greased with cow and pig fat triggered the uprising."
+    },
+    {
+      "question": "Who presided over the very first session of the Indian National Congress in 1885?",
+      "options": ["Dadabhai Naoroji", "Womesh Chandra Bonnerjee (W.C. Bonnerjee)", "A.O. Hume", "Surendranath Banerjee"],
+      "correct_option_id": 1,
+      "explanation": "W.C. Bonnerjee was the President of the 1st INC session held at Gokuldas Tejpal College in Bombay."
+    },
+    {
+      "question": "Who authored the famous book 'Poverty and Un-British Rule in India' proposing the Drain Theory?",
+      "options": ["Gopal Krishna Gokhale", "Bal Gangadhar Tilak", "Dadabhai Naoroji", "Bipin Chandra Pal"],
+      "correct_option_id": 2,
+      "explanation": "Dadabhai Naoroji (Grand Old Man of India) expounded the Drain of Wealth theory."
+    },
+    {
+      "question": "Which tragic event prompted Mahatma Gandhi to withdraw the Non-Cooperation Movement in 1922?",
+      "options": ["Jallianwala Bagh massacre", "Chauri Chaura incident", "Execution of Bhagat Singh", "Simon Commission"],
+      "correct_option_id": 1,
+      "explanation": "Violent clash at Chauri Chaura police station in Gorakhpur led Gandhi to suspend Non-Cooperation."
+    },
+    {
+      "question": "The historic Dandi March (Salt Satyagraha) was undertaken by Gandhiji in which year?",
+      "options": ["1920", "1928", "1930", "1942"],
+      "correct_option_id": 2,
+      "explanation": "Gandhiji commenced the Dandi March on March 12, 1930, marking the Civil Disobedience Movement."
+    }
+  ]
+}

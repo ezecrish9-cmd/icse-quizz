@@ -1,0 +1,37 @@
+{
+  "subject": "MATHS",
+  "topic": "Geometry, Trigonometry & Mensuration",
+  "description": "ICSE 10th Maths: Similarity, Circles, Coordinate Geometry, Trigonometric Identities, Heights and Distances",
+  "questions": [
+    {
+      "question": "What is the angle subtended by a diameter at any point on the semicircle?",
+      "options": ["45°", "60°", "90°", "180°"],
+      "correct_option_id": 2,
+      "explanation": "Angle in a semicircle is always a right angle (90°)."
+    },
+    {
+      "question": "What is the slope of a line perpendicular to 3x - 4y + 5 = 0?",
+      "options": ["3/4", "-4/3", "4/3", "-3/4"],
+      "correct_option_id": 1,
+      "explanation": "Slope of given line m1 = 3/4. For perpendicular lines, m1 × m2 = -1 => m2 = -4/3."
+    },
+    {
+      "question": "Simplify: (sec^2 θ - tan^2 θ) + (cosec^2 θ - cot^2 θ)",
+      "options": ["0", "1", "2", "-1"],
+      "correct_option_id": 2,
+      "explanation": "From fundamental identities, sec^2 θ - tan^2 θ = 1 and cosec^2 θ - cot^2 θ = 1. 1 + 1 = 2."
+    },
+    {
+      "question": "If the ratio of radii of two cones is 2:3 and height ratio is 3:2, their volume ratio is:",
+      "options": ["2:3", "3:2", "4:9", "1:1"],
+      "correct_option_id": 0,
+      "explanation": "V1/V2 = (r1/r2)^2 × (h1/h2) = (4/9) × (3/2) = 12/18 = 2/3."
+    },
+    {
+      "question": "Opposite angles of a cyclic quadrilateral are always:",
+      "options": ["Equal", "Complementary (sum 90°)", "Supplementary (sum 180°)", "Right angles"],
+      "correct_option_id": 2,
+      "explanation": "In any cyclic quadrilateral, the sum of opposite angles is 180° (supplementary)."
+    }
+  ]
+}

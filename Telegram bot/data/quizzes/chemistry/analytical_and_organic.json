@@ -1,0 +1,37 @@
+{
+  "subject": "CHEMISTRY",
+  "topic": "Acids, Metallurgy & Organic Chemistry",
+  "description": "ICSE 10th Chemistry: Acids, Bases, Salts, Extraction of Aluminium, and Hydrocarbons",
+  "questions": [
+    {
+      "question": "What is the general molecular formula of an alkyne series?",
+      "options": ["CnH2n+2", "CnH2n", "CnH2n-2", "CnH2n-1"],
+      "correct_option_id": 2,
+      "explanation": "Alkanes are CnH2n+2, Alkenes are CnH2n, and Alkynes with triple bonds are CnH2n-2."
+    },
+    {
+      "question": "Which main ore is used for the extraction of aluminium in the Baeyer's process?",
+      "options": ["Haematite", "Bauxite (Al2O3·2H2O)", "Cryolite", "Galena"],
+      "correct_option_id": 1,
+      "explanation": "Bauxite is the principal hydrated aluminium oxide ore used in the extraction of aluminium."
+    },
+    {
+      "question": "What catalyst and temperature are used in the Contact Process for converting SO2 to SO3?",
+      "options": ["Pt at 100°C", "V2O5 (Vanadium Pentoxide) at 450°C", "Fe at 500°C", "Ni at 200°C"],
+      "correct_option_id": 1,
+      "explanation": "Vanadium pentoxide (V2O5) at 450°C and 1-2 atm pressure catalyzes the oxidation of SO2 to SO3."
+    },
+    {
+      "question": "Which gas is produced when calcium carbide reacts with water at room temperature?",
+      "options": ["Methane", "Ethane", "Acetylene (Ethyne)", "Ethene"],
+      "correct_option_id": 2,
+      "explanation": "CaC2 + 2H2O -> Ca(OH)2 + C2H2 (Acetylene / Ethyne)."
+    },
+    {
+      "question": "Which salt gives a dirty green precipitate when treated with sodium hydroxide solution?",
+      "options": ["Copper(II) sulphate", "Iron(II) sulphate (Ferrous)", "Iron(III) chloride (Ferric)", "Zinc sulphate"],
+      "correct_option_id": 1,
+      "explanation": "Fe2+ ions react with NaOH to form a dirty green precipitate of Fe(OH)2."
+    }
+  ]
+}

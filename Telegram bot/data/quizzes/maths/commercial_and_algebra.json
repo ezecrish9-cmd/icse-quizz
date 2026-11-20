@@ -1,0 +1,37 @@
+{
+  "subject": "MATHS",
+  "topic": "Commercial Mathematics & Algebra",
+  "description": "ICSE 10th Maths: GST, Banking, Linear Inequations, Quadratic Equations, Factorisation, Matrices",
+  "questions": [
+    {
+      "question": "For an intra-state transaction with 18% GST, what are the CGST and SGST rates?",
+      "options": ["CGST 18%, SGST 0%", "CGST 9%, SGST 9%", "CGST 0%, SGST 18%", "CGST 12%, SGST 6%"],
+      "correct_option_id": 1,
+      "explanation": "In intra-state sales, GST is split equally: CGST = 9% and SGST = 9%."
+    },
+    {
+      "question": "If the discriminant of ax^2 + bx + c = 0 is greater than 0 and not a perfect square, roots are:",
+      "options": ["Real and equal", "Real, unequal and irrational", "Real, unequal and rational", "Imaginary"],
+      "correct_option_id": 1,
+      "explanation": "When b^2 - 4ac > 0 and not a square, the quadratic formula yields real, distinct, irrational roots."
+    },
+    {
+      "question": "What is the order of product matrix AB if A is of order 2×3 and B is of order 3×2?",
+      "options": ["3×3", "2×2", "2×3", "Product not possible"],
+      "correct_option_id": 1,
+      "explanation": "For (2×3) multiplied by (3×2), inner dimensions match (3=3) and resulting matrix is 2×2."
+    },
+    {
+      "question": "According to the Remainder Theorem, when polynomial f(x) is divided by (x - a), the remainder is:",
+      "options": ["f(-a)", "f(a)", "f(0)", "a"],
+      "correct_option_id": 1,
+      "explanation": "By the Remainder Theorem, dividing f(x) by (x - a) leaves remainder R = f(a)."
+    },
+    {
+      "question": "If (x - 2) is a factor of x^3 - 3x^2 + ax - 8, find the value of a:",
+      "options": ["4", "6", "8", "-4"],
+      "correct_option_id": 1,
+      "explanation": "f(2) = 0 => 2^3 - 3(2^2) + 2a - 8 = 0 => 8 - 12 + 2a - 8 = 0 => 2a = 12 => a = 6."
+    }
+  ]
+}

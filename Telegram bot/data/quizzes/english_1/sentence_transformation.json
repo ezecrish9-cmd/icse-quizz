@@ -1,0 +1,62 @@
+{
+  "subject": "ENGLISH 1",
+  "topic": "Transformation of Sentences",
+  "description": "ICSE 10th English Language: Voice, Direct & Indirect Speech, Degrees of Comparison, and Synthesis",
+  "questions": [
+    {
+      "question": "Transform using 'No sooner...': As soon as the bell rang, the children ran out.",
+      "options": [
+        "No sooner the bell rang than the children ran out.",
+        "No sooner did the bell ring than the children ran out.",
+        "No sooner did the bell ring when the children ran out.",
+        "No sooner had the bell rung then the children ran out."
+      ],
+      "correct_option_id": 1,
+      "explanation": "Correct inversion: 'No sooner did + subject + base verb... than...'"
+    },
+    {
+      "question": "Convert to Indirect Speech: The teacher said to Mohan, \"Why are you late today?\"",
+      "options": [
+        "The teacher asked Mohan that why he was late today.",
+        "The teacher asked Mohan why was he late that day.",
+        "The teacher asked Mohan why he was late that day.",
+        "The teacher inquired Mohan why he is late that day."
+      ],
+      "correct_option_id": 2,
+      "explanation": "No 'that' after asked with wh-words, word order is assertive (he was late), and 'today' becomes 'that day'."
+    },
+    {
+      "question": "Transform to Comparative Degree: Mount Everest is the highest mountain peak in the world.",
+      "options": [
+        "Mount Everest is higher than any other peak in the world.",
+        "Mount Everest is more high than all peaks.",
+        "No other peak is higher as Mount Everest.",
+        "Very few peaks are higher than Mount Everest."
+      ],
+      "correct_option_id": 0,
+      "explanation": "Singular superlative -> comparative using 'higher than any other peak in the world'."
+    },
+    {
+      "question": "Transform removing 'too': He is too weak to walk alone.",
+      "options": [
+        "He is so weak that he cannot walk alone.",
+        "He is very weak so he can walk alone.",
+        "He is too weak so that he cannot walk alone.",
+        "He is weak enough that he cannot walk alone."
+      ],
+      "correct_option_id": 0,
+      "explanation": "'Too... to' transforms to 'so... that + cannot': 'He is so weak that he cannot walk alone.'"
+    },
+    {
+      "question": "Transform into Passive Voice: Who wrote this brilliant novel?",
+      "options": [
+        "Whom was this brilliant novel written?",
+        "By whom was this brilliant novel written?",
+        "By who this brilliant novel was written?",
+        "Who was this brilliant novel written by?"
+      ],
+      "correct_option_id": 1,
+      "explanation": "'Who' changes to 'By whom' followed by auxiliary verb and subject: 'By whom was this brilliant novel written?'"
+    }
+  ]
+}
