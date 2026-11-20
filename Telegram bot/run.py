@@ -5,6 +5,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import logging
 from telegram.request import HTTPXRequest
 from telegram import (
+    Update,
     BotCommand,
     BotCommandScopeDefault,
     BotCommandScopeAllGroupChats,
@@ -198,7 +199,7 @@ def main():
     application.add_handler(PollAnswerHandler(handle_poll_answer))
 
     print("\n🤖 Bot is running! Press Ctrl+C to terminate.")
-    application.run_polling()
+    application.run_polling(allowed_updates=Update.ALL_TYPES, drop_pending_updates=True)
 
 
 if __name__ == "__main__":
