@@ -22,7 +22,11 @@ POLL_DURATION_SECONDS = int(os.getenv("POLL_DURATION_SECONDS", "20"))
 QUESTIONS_PER_ROUND = int(os.getenv("QUESTIONS_PER_ROUND", "5"))
 DELAY_BETWEEN_QUESTIONS = int(os.getenv("DELAY_BETWEEN_QUESTIONS", "3"))
 
-# Database Path
+# Database Configuration
+DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
+
 DATABASE_PATH = Path(os.getenv("DATABASE_PATH", str(DATA_DIR / "quiz_bot.db")))
 if not DATABASE_PATH.is_absolute():
     DATABASE_PATH = BASE_DIR / DATABASE_PATH
