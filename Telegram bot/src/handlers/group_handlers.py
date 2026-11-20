@@ -111,13 +111,8 @@ async def handle_subject_callback(update: Update, context: ContextTypes.DEFAULT_
     is_solo = (chat.type == ChatType.PRIVATE)
     pending = session_manager.get_pending_selection(chat.id)
     if not pending:
-        if is_solo:
-            # If expired in DM, re-initiate selection
-            session_manager.set_pending_selection(chat.id, update.effective_user.id, update.effective_user.first_name)
-            pending = session_manager.get_pending_selection(chat.id)
-        else:
-            await query.answer("⚠️ This selection menu has expired. Use /quiz to start a new one.", show_alert=True)
-            return
+        session_manager.set_pending_selection(chat.id, update.effective_user.id, update.effective_user.first_name)
+        pending = session_manager.get_pending_selection(chat.id)
 
     # Verify authorization
     if not await is_authorized_user(update, context, pending["starter_id"]):
@@ -173,12 +168,8 @@ async def handle_back_subjects_callback(update: Update, context: ContextTypes.DE
     is_solo = (chat.type == ChatType.PRIVATE)
     pending = session_manager.get_pending_selection(chat.id)
     if not pending:
-        if is_solo:
-            session_manager.set_pending_selection(chat.id, update.effective_user.id, update.effective_user.first_name)
-            pending = session_manager.get_pending_selection(chat.id)
-        else:
-            await query.answer("⚠️ This selection menu has expired. Use /quiz to start a new one.", show_alert=True)
-            return
+        session_manager.set_pending_selection(chat.id, update.effective_user.id, update.effective_user.first_name)
+        pending = session_manager.get_pending_selection(chat.id)
 
     if not await is_authorized_user(update, context, pending["starter_id"]):
         await query.answer("⚠️ Only the person who initiated this quiz or an admin can select!", show_alert=True)
@@ -247,12 +238,8 @@ async def handle_topic_callback(update: Update, context: ContextTypes.DEFAULT_TY
     is_solo = (chat.type == ChatType.PRIVATE)
     pending = session_manager.get_pending_selection(chat.id)
     if not pending:
-        if is_solo:
-            session_manager.set_pending_selection(chat.id, user.id, user.first_name)
-            pending = session_manager.get_pending_selection(chat.id)
-        else:
-            await query.answer("⚠️ This selection menu has expired. Use /quiz to start a new one.", show_alert=True)
-            return
+        session_manager.set_pending_selection(chat.id, user.id, user.first_name)
+        pending = session_manager.get_pending_selection(chat.id)
 
     if not await is_authorized_user(update, context, pending["starter_id"]):
         await query.answer("⚠️ Only the person who initiated this quiz or an admin can select!", show_alert=True)
