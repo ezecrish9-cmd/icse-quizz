@@ -117,6 +117,19 @@ async def post_init(application) -> None:
         logger.warning(f"Could not register bot commands with Telegram: {e}")
 
 
+async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Log any unhandled exception and notify user if it was a callback query."""
+    logger.error("❌ Exception while handling Telegram update:", exc_info=context.error)
+    if isinstance(update, Update) and update.callback_query:
+        try:
+            await update.callback_query.answer(
+                f"⚠️ Error: {context.error}",
+                show_alert=True
+            )
+        except Exception:
+            pass
+
+
 def main():
     print("=" * 60)
     print("🚀 Initializing ICSE 10th Quiz Telegram Bot...")
@@ -197,6 +210,9 @@ def main():
 
     # Live Poll Answer Handler
     application.add_handler(PollAnswerHandler(handle_poll_answer))
+
+    # Global Error Handler
+    application.add_error_handler(error_handler)
 
     print("\n🤖 Bot is running! Press Ctrl+C to terminate.")
     application.run_polling(allowed_updates=Update.ALL_TYPES, drop_pending_updates=True)
